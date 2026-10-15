@@ -1,243 +1,162 @@
-<img src="./assets/pixel-night-banner-named.gif" align="middle" alt="Banner" width="100%"/>
-
-<img src="./assets/borderseparator.gif" width="100%"/>
-
-<div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left" alt="Flame"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Emmanuel+Polo+and+Welcome+to+my+Profile!" alt="Hey, I'm Emmanuel Polo and Welcome to my Profile!" width="80%" align="middle"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right" alt="Flame"/>
-</div>
-
-<img src="./assets/borderseparator.gif" width="100%"/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-143%20ELI-blueviolet" alt="Profile Views: 143 ELI"/>
-</div>
-
-<h2></h2>
-
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="Pixel city image"/>
-
-<h2 align="center">
-  Self-taught
-  <img src="./assets/animated-flame-01.gif" width="14px" alt="Flame"/>
-  and passionate
-  <img src="./assets/animated-flame-01.gif" width="14px" alt="Flame"/>
-  about coding!
-</h2>
-<br/>
-
-- 👨‍💻 I'm Emmanuel Polo, a Computer Science graduate from the Philippines.
-  <br/><br/><br/>
-
-- 🌳 I'm currently learning AI and Machine Learning using Python!
-  <br/><br/><br/>
-
-- 🐾 I'm looking to network and make friends here!
-  <br/><br/><br/>
-
-- 🌊 Goals: Learn AI and Machine Learning and contribute to Open Source Projects.
-  <br/><br/><br/>
-
-- ☕ Interests: Science, Math, Coffee, and Coding.
-  <br/><br/><br/>
-
-- <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px" alt="GitHub Octocat"/> Hobbies: Sleeping, Reading, Anime, Manga, Web Novels, and Facebook.
-  <br/><br/>
-
-<h2></h2>
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left" alt="Flame"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right" alt="Flame"/>
+<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-  <h2>
-    <strong>📚 Education</strong>
-    <img src="./assets/borderseparator.gif" alt="Separator"/>
-  </h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:7B2FF7,100:00F5FF&height=220&section=header&text=Emmanuel%20Polo&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Emmanuel Polo banner"/>
 
-  <br/>
-
-  <a href="https://www.codewars.com/users/godkingjay" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
-  </a>
-
-  <a href="https://www.coursera.org/user/35d06074c7104e91a2ec94c25ea37db4" target="_blank">
-    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera"/>
-  </a>
-
-  <a href="https://www.hackerrank.com/godking_jay" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-  </a>
-
-  <a href="https://leetcode.com/godkingjay/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
-  </a>
-
-  <a href="https://www.sololearn.com/profile/9696303/" target="_blank">
-    <img src="https://img.shields.io/badge/SoloLearn-F20057?style=for-the-badge&logoColor=white" alt="SoloLearn"/>
-  </a>
-
-  <a href="https://www.udemy.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/>
-  </a>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Emmanuel+Polo+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Building+Ideas+Into+Reality;Always+Learning+Something+New" alt="Animated introduction"/>
 
 <br/>
 
-<h2></h2>
+<img src="https://img.shields.io/badge/Profile%20Views-143%20ELI-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="143 ELI badge"/>
 
-<div align="center">
-  <img src="./assets/pixel-neon.gif" alt="Pixel guy using computer" width="100%"/>
-  <br/>
-</div>
-
-<div align="center">
-
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left" alt="Flame"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right" alt="Flame"/>
-
-  <h2>
-    <strong>⚙️ Technologies and Skills</strong>
-    <img src="./assets/borderseparator.gif" alt="Separator"/>
-  </h2>
-
-  <br/>
-
-  <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"/>
-
-  <br/>
-
-  <a href="https://wakatime.com/" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="WakaTime Coding Time" width="540px"/>
-  </a>
-
-  <br/>
-
-  <h2></h2>
-
-  <h3><strong>Languages, Frameworks, and Tools</strong></h3>
-
-  <img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,githubactions,nodejs,webpack,vite,latex,html,css,sass,tailwind,js,ts,react,nextjs,redux,fastapi,django,java,cpp,py,swift,arduino,docker,firebase,mongodb,mysql,sqlite,postman,netlify,vercel,figma,materialui" alt="Languages, frameworks, and tools logos"/>
-
-  <br/>
-
-  <h2></h2>
-
-  <h3><strong>Actively Learning</strong></h3>
-
-  <img src="https://skillicons.dev/icons?i=prisma,tensorflow" alt="Technologies actively being learned"/>
-
-  <br/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-00F5FF?style=for-the-badge&logo=bookstack&logoColor=black" alt="Always learning"/>
 
 </div>
 
-<h2></h2>
+---
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left" alt="Flame"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right" alt="Flame"/>
+<!-- ==================== ABOUT ME ==================== -->
+
+## 👨‍💻 About Me
+
+Hi! I'm **Emmanuel Polo**, also known by my GitHub username **[@deogodalle-design](https://github.com/deogodalle-design)**.
+
+Welcome to my corner of GitHub! 🚀
+
+- 💻 Interested in software development and technology.
+- 🌱 Always exploring new skills and tools.
+- 🧠 Passionate about learning and solving problems.
+- 🛠️ Building projects to improve my development skills.
+- 🤝 Open to connecting with other developers and creators.
+- 🎯 Goal: Keep learning, keep building, and keep improving.
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## ⚙️ Technologies & Tools
 
 <div align="center">
 
-  <h2>
-    🏆 My GitHub Stats
-    <img src="./assets/borderseparator.gif" alt="Separator"/>
-  </h2>
+### 💻 Programming Languages
 
-  <br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp" alt="Programming languages"/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA" width="100%" alt="GitHub trophies"/>
+### 🎨 Frontend Development
 
-  <br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass,bootstrap" alt="Frontend technologies"/>
 
-  <h2></h2>
+### 🧰 Backend & Databases
 
-  <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,mongodb,mysql,sqlite,firebase" alt="Backend and databases"/>
 
-  <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="GitHub streak statistics"/>
+### 🔧 Development Tools
 
-  <img src="https://github-readme-stats-umber-kappa.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="GitHub statistics"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel,netlify" alt="Development tools"/>
 
 </div>
+
+---
+
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deogodalle-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Emmanuel's GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deogodalle-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=godkingjay&custom_title=Emmanuel%20Polo%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Emmanuel Polo's GitHub Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-<h2></h2>
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left" alt="Flame"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right" alt="Flame"/>
-
-<div align="center">
-
-  <h2>
-    👨‍💻 Projects
-    <img src="./assets/borderseparator.gif" alt="Separator"/>
-  </h2>
-
-  <br/>
-
-  <a href="https://github.com/godkingjay/floci-ui" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=floci-ui" width="49%" alt="Floci UI project"/>
-  </a>
-
-  <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
-    <img src="https://github-readme-stats-umber-kappa.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper project"/>
-  </a>
+<img width="70%" src="https://streak-stats.demolab.com?user=deogodalle-design&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-<br/>
+---
 
-<h2></h2>
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left" alt="Flame"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right" alt="Flame"/>
+## 🌌 Contribution Activity
 
 <div align="center">
 
-  <h2>
-    ✉️ Contact
-    <img src="./assets/borderseparator.gif" alt="Separator"/>
-  </h2>
-
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
-  </a>
-
-  &nbsp;
-
-  <a href="https://twitter.com/" target="_blank">
-    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
-  </a>
-
-  &nbsp;
-
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
-  </a>
-
-  &nbsp;
-
-  <a href="https://discord.com/" target="_blank">
-    <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deogodalle-design&bg_color=0D1117&color=00F5FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true&custom_title=Emmanuel%20Polo's%20Contribution%20Graph" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
-<br/>
+---
 
-<img src="./assets/animated-wave.svg" alt="Animated wave"/>
+<!-- ==================== PROJECTS ==================== -->
+
+## 🚀 My Projects
+
+Explore my repositories and projects here:
+
+<div align="center">
+
+<a href="https://github.com/deogodalle-design?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+<!--
+When you have projects to showcase, replace this comment with:
+
+<div align="center">
+
+<a href="https://github.com/deogodalle-design/YOUR_PROJECT_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deogodalle-design&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+</a>
+
+<a href="https://github.com/deogodalle-design/YOUR_PROJECT_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deogodalle-design&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+</a>
+
+</div>
+-->
+
+---
+
+<!-- ==================== GOALS ==================== -->
+
+## 🎯 Goals & Interests
+
+- 📚 Learn how to be her husband.
+- 🔍 Improve loving skills.
+- 🌐 Explore with Eli.
+- 🤝 Collaborate with Eli.
+- 🚀 Build a future with her.
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/deogodalle-design">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Add your real social links when ready.
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+-->
+
+<br/><br/>
+
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:0D0221&height=120&section=footer" width="100%" alt="Neon footer"/>
+
+</div>
